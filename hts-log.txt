@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 15 Apr 2025 21:35:01 at https://rawcdn.githack.com/genizy/google-class/main/crazycattle3d/index.html +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv -*..json
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://rawcdn.githack.com/genizy/google-class/main/crazycattle3d/index.html -O1 "C:\My Web Sites\SUSSYCATTLE" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv -*..json )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:35:03	Error: 	"Not Found" (404) at link https://rawcdn.githack.com/genizy/google-class/main/crazycattle3d/CrazyCattle3D.apple-touch-icon.png (from https://rawcdn.githack.com/genizy/google-class/main/crazycattle3d/index.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 seconds : 7 links scanned, 5 files written (541145 bytes overall), 3 files updated [91797 bytes received at 45898 bytes/sec], 323275 bytes transferred using HTTP compression in 4 files, ratio 25%, 1.7 requests per connection
+(1 errors, 0 warnings, 0 messages)
